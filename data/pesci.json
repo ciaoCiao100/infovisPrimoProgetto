@@ -1,0 +1,15 @@
+
+[{ "x" : 0, "y" :  90, "bodyDim" :  110, "armDim" : 10, "eyeDim" : 10 },
+    { "x" : 1080, "y" :  80, "bodyDim" :150, "armDim" : 50, "eyeDim" : 28 },
+    { "x" : 500, "y" :  60, "bodyDim" : 160, "armDim" : 100, "eyeDim" : 10 },
+    { "x" : 300, "y" : 450, "bodyDim" : 200, "armDim" : 20, "eyeDim" : 35 },
+    { "x" : 40, "y" :  50, "bodyDim" : 100, "armDim" : 90, "eyeDim" : 18 },
+    { "x" :  250, "y" :  40, "bodyDim" : 140, "armDim" : 30, "eyeDim" : 38 },
+    { "x" :  700, "y" :  600, "bodyDim" : 140, "armDim" : 30, "eyeDim" : 20 },
+    { "x" :  70, "y" :  70, "bodyDim" : 130, "armDim" : 80, "eyeDim" : 10 },
+    { "x" :  80, "y" :  200, "bodyDim" : 180, "armDim" : 40, "eyeDim" : 18 },
+    { "x" :  900, "y" :  0, "bodyDim" : 110, "armDim" : 60, "eyeDim" : 30 }
+    ]
+
+
+    
